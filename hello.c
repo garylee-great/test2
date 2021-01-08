@@ -3,4 +3,5 @@
 void main()
 {
     printf("hello fiberhome!");
+    printf("hello mi!");
 }
