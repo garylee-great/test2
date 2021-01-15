@@ -2,6 +2,6 @@
 
 void main()
 {
-    printf("byebye fiberhome!");
+    printf("goodbye fiberhome!");
     printf("hello mi!");
 }
