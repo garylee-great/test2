@@ -4,5 +4,5 @@ void main()
 {
     printf("good-bye fiberhome!");
     printf("hello mi!");
-    printf("let's go!");
+    printf("let's go go go!");
 }
